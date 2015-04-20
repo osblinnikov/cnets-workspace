@@ -1,0 +1,12 @@
+[submodule "github.com/osblinnikov/cnets"]
+	path = github.com/osblinnikov/cnets
+	url = https://github.com/osblinnikov/cnets.git
+[submodule "github.com/osblinnikov/gernet"]
+	path = github.com/osblinnikov/gernet
+	url = https://github.com/osblinnikov/gernet.git
+[submodule "github.com/osblinnikov/connector"]
+	path = github.com/osblinnikov/connector
+	url = https://github.com/osblinnikov/connector.git
+[submodule "github.com/osblinnikov/snocs"]
+	path = github.com/osblinnikov/snocs
+	url = https://github.com/osblinnikov/snocs.git
