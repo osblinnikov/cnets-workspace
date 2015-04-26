@@ -10,3 +10,6 @@
 [submodule "github.com/osblinnikov/snocs"]
 	path = github.com/osblinnikov/snocs
 	url = https://github.com/osblinnikov/snocs.git
+[submodule "github.com/osblinnikov/cnets_java"]
+	path = github.com/osblinnikov/cnets_java
+	url = https://github.com/osblinnikov/cnets_java.git
